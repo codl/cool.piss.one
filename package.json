@@ -1,0 +1,13 @@
+{
+  "version": "0.0.0",
+  "main": "build.js",
+  "author": "codl <codl@codl.fr>",
+  "dependencies": {
+    "@weh/weh": "^2.0.0",
+    "rm-r": "^1.0.2",
+    "weh-brotli": "^1.0.0",
+    "weh-gzip": "^1.1.1"
+  },
+  "private": "true",
+  "license": "UNLICENSED"
+}
